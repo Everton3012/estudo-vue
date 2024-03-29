@@ -10,6 +10,7 @@ import Exemplo06 from '@/components/Exemplo06Classe.vue';
 import Exemplo07 from '@/components/Exemplo07Click.vue';
 import Exemplo08 from '@/components/Exemplo08Teclado.vue';
 import Exemplo09 from '@/components/Exemplo09Enviar.vue';
+import Exemplo10 from '@/components/Exemplo10Lifecycle.vue';
 </script>
 
 <!-- HTML -->
@@ -24,6 +25,7 @@ import Exemplo09 from '@/components/Exemplo09Enviar.vue';
     <Exemplo07/>
     <Exemplo08/>
     <Exemplo09/>
+    <Exemplo10/>
 </template>
 
 <style scoped>
