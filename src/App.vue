@@ -8,6 +8,7 @@ import Exemplo04 from '@/components/Exemplo04HTML.vue';
 import Exemplo05 from '@/components/Exemplo05Model.vue';
 import Exemplo06 from '@/components/Exemplo06Classe.vue';
 import Exemplo07 from '@/components/Exemplo07Click.vue';
+import Exemplo08 from '@/components/Exemplo08Teclado.vue';
 </script>
 
 <!-- HTML -->
@@ -20,6 +21,7 @@ import Exemplo07 from '@/components/Exemplo07Click.vue';
     <Exemplo05/>
     <Exemplo06/>
     <Exemplo07/>
+    <Exemplo08/>
 </template>
 
 <style scoped>
