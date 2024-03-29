@@ -5,6 +5,7 @@ import Exemplo01 from '@/components/Exemplo01Interpolacao.vue';
 import Exemplo02 from '@/components/Exemplo02Condicional.vue';
 import Exemplo03 from '@/components/Exemplo03Laco.vue';
 import Exemplo04 from '@/components/Exemplo04HTML.vue';
+import Exemplo05 from '@/components/Exemplo05Model.vue';
 </script>
 
 <!-- HTML -->
@@ -14,6 +15,7 @@ import Exemplo04 from '@/components/Exemplo04HTML.vue';
     <Exemplo02/>
     <Exemplo03/>
     <Exemplo04/>
+    <Exemplo05/>
 </template>
 
 <style scoped>
