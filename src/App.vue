@@ -11,7 +11,7 @@ import Exemplo07 from '@/components/Exemplo07Click.vue';
 import Exemplo08 from '@/components/Exemplo08Teclado.vue';
 import Exemplo09 from '@/components/Exemplo09Enviar.vue';
 import Exemplo10 from '@/components/Exemplo10Lifecycle.vue';
-import Exemplo11 from '@/components/Exemplo11PropsEstaticas.vue';
+import Exemplo11 from '@/components/Exemplo11Props1.vue';
 </script>
 
 <!-- HTML -->
