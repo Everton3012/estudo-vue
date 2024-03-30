@@ -13,6 +13,7 @@ import Exemplo09 from '@/components/Exemplo09Enviar.vue';
 import Exemplo10 from '@/components/Exemplo10Lifecycle.vue';
 import Exemplo11 from '@/components/Exemplo11Props1.vue';
 import Exemplo12 from '@/components/Exemplo12Rotas.vue';
+import Exemplo13 from '@/components/Exemplo13Requisicao.vue';
 </script>
 
 <!-- HTML -->
@@ -30,6 +31,7 @@ import Exemplo12 from '@/components/Exemplo12Rotas.vue';
     <Exemplo10/>
     <Exemplo11/>
     <Exemplo12/>
+    <Exemplo13/>
 </template>
 
 <style scoped>
