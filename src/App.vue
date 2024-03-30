@@ -11,6 +11,7 @@ import Exemplo07 from '@/components/Exemplo07Click.vue';
 import Exemplo08 from '@/components/Exemplo08Teclado.vue';
 import Exemplo09 from '@/components/Exemplo09Enviar.vue';
 import Exemplo10 from '@/components/Exemplo10Lifecycle.vue';
+import Exemplo11 from '@/components/Exemplo11PropsEstaticas.vue';
 </script>
 
 <!-- HTML -->
@@ -26,6 +27,7 @@ import Exemplo10 from '@/components/Exemplo10Lifecycle.vue';
     <Exemplo08/>
     <Exemplo09/>
     <Exemplo10/>
+    <Exemplo11/>
 </template>
 
 <style scoped>
